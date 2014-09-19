@@ -1,5 +1,5 @@
-cppassi[^1] -- C++-assistant
-============================
+cppassi¹ -- C++-assistant
+=========================
 
 Ths program is a small helper for the creation of C++ files. Basically
 what your IDE would do but without the IDE on the commandline.
@@ -11,4 +11,6 @@ checks on them (things like indentation with tabs or use of snake_case).
 
 License: GPLv3 or later
 
-[^1]: pun intended
+----
+
+¹ pun intended
